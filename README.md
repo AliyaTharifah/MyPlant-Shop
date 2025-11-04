@@ -1,7 +1,8 @@
 ## 1. Screen 1: Halaman Intro 
 Halaman ini berfungsi sebagai Intro Screen atau Splash Screen aplikasi. Tampilan berpusat pada judul aplikasi, "Toko Tanaman Hias," dan tagline singkat. 
 Tombol "Start now" di bagian bawah adalah aksi utama yang mengarahkan pengguna ke halaman Otentikasi (Login/Register) untuk memulai.
-<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/5c8489a5-4bbc-47b3-b626-04d96d45a092" />
+
+<img width="100" height="400" alt="Image" src="https://github.com/user-attachments/assets/5c8489a5-4bbc-47b3-b626-04d96d45a092" />
 
 ## 2. Screen 2: Login 
 Halaman-halaman ini menangani Otentikasi Pengguna.
